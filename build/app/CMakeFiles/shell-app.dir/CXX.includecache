@@ -17,6 +17,8 @@ numeric
 -
 vector
 -
+memory
+-
 
 /home/pruthvi/Desktop/Pruthvi/valgrind/app/main.cpp
 iostream
